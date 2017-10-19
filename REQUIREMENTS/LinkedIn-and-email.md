@@ -13,7 +13,7 @@ Display data sorted ascending by date
 
 Extra points – search screen where you can enter either EmployeeLastName or EmployeePhone and it returns all 6 fields
 
-#specifically demonstrate:
+# specifically demonstrate:
 
 - ASP.NET C# / JavaScript code that shows SQL connectivity. MVC would be acceptable as a second option.
  
