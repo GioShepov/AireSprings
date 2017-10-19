@@ -1,13 +1,20 @@
-# / ASP.net (MVC is ok but if can avoid that it would be helpful) Remember no Linq.
+# ASP.net (MVC is ok but if can avoid that it would be helpful) 
+(Remember no Linq.)
 
-Create a webform for data input/output
+## Create a webform for data input/output
 
 EmployeeID - Unique ID
+
 EmployeeLastName
+
 EmployeeFirstName
+
 EmployeePhone formatted (XXX) XXX-XXXX
+
 EmployeeZip
+
 HireDate formatted as MM/DD/YYYY
+
 
 Display data sorted ascending by date
 
