@@ -1,3 +1,5 @@
 # AireSprings
-AireSprings Sample APP
-by Gio Shepov
+
+##Sample APP
+
+*by* ### Gio Shepov
